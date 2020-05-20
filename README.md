@@ -13,4 +13,8 @@ Ditulis berdasarkan pengalaman pribadi
   ![N|Solid](./gambar/gambar-2.PNG)
 
 ### Tambah dan Hilangkan  Filter
-- 
+- Buka folder_project_anda/app/src/extensi/FilterExtension.php
+- Ubah fungsi ini jika anda ingin menghilangkan beberapa filter. Isi key dengan nama DataObject anda dan value dengan nama field yang akan dihilangkan
+  ![N|Solid](./gambar/gambar-3.PNG)
+- Ubah fungsi ini jika anda ingin menambahkan beberapa filter. Isi key dengan nama DataObject anda dan value dengan field yang akan diisi (note: pastikan nama fieldnya unik)
+  ![N|Solid](./gambar/gambar-4.PNG)
