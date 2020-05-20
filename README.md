@@ -7,4 +7,4 @@ Ditulis berdasarkan pengalaman pribadi
 - Copy folder js yang ada di C:/sharedfolder/didin ke folder_project_anda/app
 - Copy folder css yang ada di C:/sharedfolder/didin ke folder_project_anda/app
 - Buka File folder_project_anda/app/_config/mysite.yml lalu tambahkan text ini
-  [![N|Solid](./gambar/gambar-0.PNG)]
+  ![N|Solid](./gambar/gambar-0.PNG)]
