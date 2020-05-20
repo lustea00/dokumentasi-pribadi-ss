@@ -2,5 +2,9 @@
 Ditulis berdasarkan pengalaman pribadi
 
 ## Beberapa Tip Untuk Anda Yang Bekerja Di Backend
-### Tambah dan Hapus Filter
-- Copy folder extensi yang ada di C:/sharedfolder/didin ke folder_project_anda/app
+### Persiapan project
+- Copy folder extensi yang ada di C:/sharedfolder/didin ke folder_project_anda/app/src
+- Copy folder js yang ada di C:/sharedfolder/didin ke folder_project_anda/app
+- Copy folder css yang ada di C:/sharedfolder/didin ke folder_project_anda/app
+- Buka File folder_project_anda/app/_config/mysite.yml lalu tambahkan text ini
+  [![N|Solid](./gambar/gambar-0.PNG)]
