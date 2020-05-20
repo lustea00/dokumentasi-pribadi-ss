@@ -34,8 +34,8 @@
 
 ## EphiliaTable
 - Buat class baru yang extends EphiliaTable
-- Lalu buat variabel dan fungsi berikut:
-  `public static $title = "Contoh title";` untuk setting title
+#### Buat variabel dan fungsi berikut:
+- `public static $title = "Contoh title";` untuk setting title
 
 
 
