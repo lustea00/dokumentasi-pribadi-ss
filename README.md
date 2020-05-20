@@ -35,7 +35,15 @@
 ## EphiliaTable
 - Buat class baru yang extends EphiliaTable
 #### Buat variabel dan fungsi berikut:
-- `public static $title = "Contoh title";` untuk setting title
+- `public static $title = "...";` untuk setting title
+- `public static $tableName = "...";` untuk setting nama tabel
+- `public static $canCreate = true/false;` untuk setting bisa buat data baru atau tidak
+- `public static $canDelete = true/false;` untuk setting bisa hapus data atau tidak
+- `public static $canEdit = true/false;` untuk setting bisa edit data atau tidak
+- `public static $tableData = ['Nama Kolom/fungsi' => 'Label'];` untuk setting bisa hapus data atau tidak
+- `public static $filterAction = ['Nama Field' => 'LIKE/='];` untuk setting filter
+- `public function validationFields() {return ['NamaField' => ['required/max/min/dll' => 'value yang akan divalidasi']];}` untuk validasi field
+- `public function getList($param){return DataObject::get();}` untuk setting list mana yang akan ditampilkan
 
 
 
