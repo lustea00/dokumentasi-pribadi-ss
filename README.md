@@ -1,5 +1,5 @@
 # Saya Tidak Tahu Ini Harus Dikasih Judul Apa
-Ditulis berdasarkan pengalaman pribadi
+
 
 ## Beberapa Tip Untuk Anda Yang Bekerja Di Backend
 ### Persiapan project
@@ -25,3 +25,9 @@ Ditulis berdasarkan pengalaman pribadi
   ![N|Solid](./gambar/gambar-5.PNG)
 - Untuk detail ubah variabel ini. Isi key dengan nama DataObject anda dan value dengan nama grid field yang juga punya value array
   ![N|Solid](./gambar/gambar-6.PNG)
+
+### Beberapa Custom Form yang disesuaikan dengan standar MGE
+- AutoNumericField. Tersedia dalam beberapa class ('two-comma', 'two-comma-min', 'without-comma', 'without-comma-min')
+  ![N|Solid](./gambar/gambar-7.PNG)
+- TanggalField
+  ![N|Solid](./gambar/gambar-8.PNG)
