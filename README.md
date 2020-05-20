@@ -31,3 +31,13 @@
   ![N|Solid](./gambar/gambar-7.PNG)
 - TanggalField
   ![N|Solid](./gambar/gambar-8.PNG)
+
+## EphiliaTable
+- Buat class baru yang extends EphiliaTable
+- Lalu buat variabel dan fungsi berikut:
+  `public static $title = "Contoh title";` untuk setting title
+
+
+
+
+
